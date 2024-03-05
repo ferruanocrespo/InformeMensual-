@@ -1,0 +1,52 @@
+[
+    {
+        "fecha": "2024-02-01",
+        "severidad": "Low",
+        "cantidad": 2
+    },
+    {
+        "fecha": "2024-02-20",
+        "severidad": "High",
+        "cantidad": 4
+    },
+    {
+        "fecha": "2024-02-06",
+        "severidad": "Low",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2024-02-13",
+        "severidad": "Medium",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2024-02-26",
+        "severidad": "Low",
+        "cantidad": 2
+    },
+    {
+        "fecha": "2024-02-21",
+        "severidad": "High",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2024-02-22",
+        "severidad": "Medium",
+        "cantidad": 5
+    },
+    {
+        "fecha": "2024-02-23",
+        "severidad": "High",
+        "cantidad": 2
+    },
+    {
+        "fecha": "2024-02-28",
+        "severidad": "High",
+        "cantidad": 3
+    },
+    {
+        "fecha": "2024-02-29",
+        "severidad": "High",
+        "cantidad": 3
+    }
+]
