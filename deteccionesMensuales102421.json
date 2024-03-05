@@ -1,0 +1,27 @@
+[
+    {
+        "fecha": "2024-02-14",
+        "severidad": "Medium",
+        "cantidad": 3
+    },
+    {
+        "fecha": "2024-02-15",
+        "severidad": "Medium",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2024-02-16",
+        "severidad": "Medium",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2024-02-16",
+        "severidad": "High",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2024-02-19",
+        "severidad": "Medium",
+        "cantidad": 2
+    }
+]
