@@ -1,0 +1,77 @@
+[
+    {
+        "fecha": "2024-03-01",
+        "severidad": "High",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2024-03-05",
+        "severidad": "High",
+        "cantidad": 8
+    },
+    {
+        "fecha": "2024-03-13",
+        "severidad": "High",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2024-03-14",
+        "severidad": "High",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2024-03-18",
+        "severidad": "High",
+        "cantidad": 2
+    },
+    {
+        "fecha": "2024-03-15",
+        "severidad": "High",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2024-03-12",
+        "severidad": "High",
+        "cantidad": 3
+    },
+    {
+        "fecha": "2024-03-20",
+        "severidad": "Medium",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2024-03-06",
+        "severidad": "High",
+        "cantidad": 5
+    },
+    {
+        "fecha": "2024-03-07",
+        "severidad": "Critical",
+        "cantidad": 20
+    },
+    {
+        "fecha": "2024-03-07",
+        "severidad": "High",
+        "cantidad": 2
+    },
+    {
+        "fecha": "2024-03-10",
+        "severidad": "Low",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2024-03-11",
+        "severidad": "High",
+        "cantidad": 2
+    },
+    {
+        "fecha": "2024-03-20",
+        "severidad": "High",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2024-03-27",
+        "severidad": "Low",
+        "cantidad": 1
+    }
+]
