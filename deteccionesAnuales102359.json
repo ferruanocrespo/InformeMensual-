@@ -1,0 +1,377 @@
+[
+    {
+        "cantidad": 0.0,
+        "severidad": "Critical",
+        "fecha": "2023-02"
+    },
+    {
+        "cantidad": 0.0,
+        "severidad": "High",
+        "fecha": "2023-02"
+    },
+    {
+        "cantidad": 0.0,
+        "severidad": "Informational",
+        "fecha": "2023-02"
+    },
+    {
+        "cantidad": 9.0,
+        "severidad": "Low",
+        "fecha": "2023-02"
+    },
+    {
+        "cantidad": 0.0,
+        "severidad": "Medium",
+        "fecha": "2023-02"
+    },
+    {
+        "cantidad": 0.0,
+        "severidad": "Critical",
+        "fecha": "2023-03"
+    },
+    {
+        "cantidad": 5.0,
+        "severidad": "High",
+        "fecha": "2023-03"
+    },
+    {
+        "cantidad": 0.0,
+        "severidad": "Informational",
+        "fecha": "2023-03"
+    },
+    {
+        "cantidad": 2071.0,
+        "severidad": "Low",
+        "fecha": "2023-03"
+    },
+    {
+        "cantidad": 15.0,
+        "severidad": "Medium",
+        "fecha": "2023-03"
+    },
+    {
+        "cantidad": 0.0,
+        "severidad": "Critical",
+        "fecha": "2023-04"
+    },
+    {
+        "cantidad": 226.0,
+        "severidad": "High",
+        "fecha": "2023-04"
+    },
+    {
+        "cantidad": 0.0,
+        "severidad": "Informational",
+        "fecha": "2023-04"
+    },
+    {
+        "cantidad": 1142.0,
+        "severidad": "Low",
+        "fecha": "2023-04"
+    },
+    {
+        "cantidad": 14.0,
+        "severidad": "Medium",
+        "fecha": "2023-04"
+    },
+    {
+        "cantidad": 0.0,
+        "severidad": "Critical",
+        "fecha": "2023-05"
+    },
+    {
+        "cantidad": 0.0,
+        "severidad": "High",
+        "fecha": "2023-05"
+    },
+    {
+        "cantidad": 0.0,
+        "severidad": "Informational",
+        "fecha": "2023-05"
+    },
+    {
+        "cantidad": 9.0,
+        "severidad": "Low",
+        "fecha": "2023-05"
+    },
+    {
+        "cantidad": 0.0,
+        "severidad": "Medium",
+        "fecha": "2023-05"
+    },
+    {
+        "cantidad": 0.0,
+        "severidad": "Critical",
+        "fecha": "2023-06"
+    },
+    {
+        "cantidad": 40.0,
+        "severidad": "High",
+        "fecha": "2023-06"
+    },
+    {
+        "cantidad": 0.0,
+        "severidad": "Informational",
+        "fecha": "2023-06"
+    },
+    {
+        "cantidad": 419.0,
+        "severidad": "Low",
+        "fecha": "2023-06"
+    },
+    {
+        "cantidad": 17.0,
+        "severidad": "Medium",
+        "fecha": "2023-06"
+    },
+    {
+        "cantidad": 0.0,
+        "severidad": "Critical",
+        "fecha": "2023-07"
+    },
+    {
+        "cantidad": 19.0,
+        "severidad": "High",
+        "fecha": "2023-07"
+    },
+    {
+        "cantidad": 1.0,
+        "severidad": "Informational",
+        "fecha": "2023-07"
+    },
+    {
+        "cantidad": 489.0,
+        "severidad": "Low",
+        "fecha": "2023-07"
+    },
+    {
+        "cantidad": 25.0,
+        "severidad": "Medium",
+        "fecha": "2023-07"
+    },
+    {
+        "cantidad": 0.0,
+        "severidad": "Critical",
+        "fecha": "2023-08"
+    },
+    {
+        "cantidad": 82.0,
+        "severidad": "High",
+        "fecha": "2023-08"
+    },
+    {
+        "cantidad": 1.0,
+        "severidad": "Informational",
+        "fecha": "2023-08"
+    },
+    {
+        "cantidad": 70.0,
+        "severidad": "Low",
+        "fecha": "2023-08"
+    },
+    {
+        "cantidad": 26.0,
+        "severidad": "Medium",
+        "fecha": "2023-08"
+    },
+    {
+        "cantidad": 0.0,
+        "severidad": "Critical",
+        "fecha": "2023-08"
+    },
+    {
+        "cantidad": 82.0,
+        "severidad": "High",
+        "fecha": "2023-08"
+    },
+    {
+        "cantidad": 1.0,
+        "severidad": "Informational",
+        "fecha": "2023-08"
+    },
+    {
+        "cantidad": 70.0,
+        "severidad": "Low",
+        "fecha": "2023-08"
+    },
+    {
+        "cantidad": 26.0,
+        "severidad": "Medium",
+        "fecha": "2023-08"
+    },
+    {
+        "cantidad": 0.0,
+        "severidad": "Critical",
+        "fecha": "2023-09"
+    },
+    {
+        "cantidad": 24.0,
+        "severidad": "High",
+        "fecha": "2023-09"
+    },
+    {
+        "cantidad": 8.0,
+        "severidad": "Informational",
+        "fecha": "2023-09"
+    },
+    {
+        "cantidad": 519.0,
+        "severidad": "Low",
+        "fecha": "2023-09"
+    },
+    {
+        "cantidad": 11.0,
+        "severidad": "Medium",
+        "fecha": "2023-09"
+    },
+    {
+        "cantidad": 0.0,
+        "severidad": "Critical",
+        "fecha": "2023-10"
+    },
+    {
+        "cantidad": 70.0,
+        "severidad": "High",
+        "fecha": "2023-10"
+    },
+    {
+        "cantidad": 0.0,
+        "severidad": "Informational",
+        "fecha": "2023-10"
+    },
+    {
+        "cantidad": 251.0,
+        "severidad": "Low",
+        "fecha": "2023-10"
+    },
+    {
+        "cantidad": 10.0,
+        "severidad": "Medium",
+        "fecha": "2023-10"
+    },
+    {
+        "cantidad": 2.0,
+        "severidad": "Critical",
+        "fecha": "2023-11"
+    },
+    {
+        "cantidad": 56.0,
+        "severidad": "High",
+        "fecha": "2023-11"
+    },
+    {
+        "cantidad": 14.0,
+        "severidad": "Informational",
+        "fecha": "2023-11"
+    },
+    {
+        "cantidad": 59.0,
+        "severidad": "Low",
+        "fecha": "2023-11"
+    },
+    {
+        "cantidad": 41.0,
+        "severidad": "Medium",
+        "fecha": "2023-11"
+    },
+    {
+        "cantidad": 0.0,
+        "severidad": "Critical",
+        "fecha": "2023-12"
+    },
+    {
+        "cantidad": 27.0,
+        "severidad": "High",
+        "fecha": "2023-12"
+    },
+    {
+        "cantidad": 0.0,
+        "severidad": "Informational",
+        "fecha": "2023-12"
+    },
+    {
+        "cantidad": 82.0,
+        "severidad": "Low",
+        "fecha": "2023-12"
+    },
+    {
+        "cantidad": 11.0,
+        "severidad": "Medium",
+        "fecha": "2023-12"
+    },
+    {
+        "cantidad": 2.0,
+        "severidad": "Critical",
+        "fecha": "2024-01"
+    },
+    {
+        "cantidad": 74.0,
+        "severidad": "High",
+        "fecha": "2024-01"
+    },
+    {
+        "cantidad": 0.0,
+        "severidad": "Informational",
+        "fecha": "2024-01"
+    },
+    {
+        "cantidad": 84.0,
+        "severidad": "Low",
+        "fecha": "2024-01"
+    },
+    {
+        "cantidad": 24.0,
+        "severidad": "Medium",
+        "fecha": "2024-01"
+    },
+    {
+        "cantidad": 0.0,
+        "severidad": "Critical",
+        "fecha": "2024-02"
+    },
+    {
+        "cantidad": 53.0,
+        "severidad": "High",
+        "fecha": "2024-02"
+    },
+    {
+        "cantidad": 14.0,
+        "severidad": "Informational",
+        "fecha": "2024-02"
+    },
+    {
+        "cantidad": 274.0,
+        "severidad": "Low",
+        "fecha": "2024-02"
+    },
+    {
+        "cantidad": 27.0,
+        "severidad": "Medium",
+        "fecha": "2024-02"
+    },
+    {
+        "cantidad": 17.0,
+        "severidad": "Critical",
+        "fecha": "2024-03"
+    },
+    {
+        "cantidad": 84.0,
+        "severidad": "High",
+        "fecha": "2024-03"
+    },
+    {
+        "cantidad": 0.0,
+        "severidad": "Informational",
+        "fecha": "2024-03"
+    },
+    {
+        "cantidad": 268.0,
+        "severidad": "Low",
+        "fecha": "2024-03"
+    },
+    {
+        "cantidad": 57.0,
+        "severidad": "Medium",
+        "fecha": "2024-03"
+    }
+]
