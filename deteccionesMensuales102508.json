@@ -1,0 +1,147 @@
+[
+    {
+        "fecha": "2024-03-01",
+        "severidad": "High",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2024-03-01",
+        "severidad": "Medium",
+        "cantidad": 5
+    },
+    {
+        "fecha": "2024-03-04",
+        "severidad": "High",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2024-03-05",
+        "severidad": "Low",
+        "cantidad": 2
+    },
+    {
+        "fecha": "2024-03-04",
+        "severidad": "Low",
+        "cantidad": 2
+    },
+    {
+        "fecha": "2024-03-05",
+        "severidad": "High",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2024-03-06",
+        "severidad": "High",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2024-03-05",
+        "severidad": "Critical",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2024-03-05",
+        "severidad": "Medium",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2024-03-12",
+        "severidad": "Medium",
+        "cantidad": 3
+    },
+    {
+        "fecha": "2024-03-08",
+        "severidad": "High",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2024-03-08",
+        "severidad": "Medium",
+        "cantidad": 2
+    },
+    {
+        "fecha": "2024-03-10",
+        "severidad": "Medium",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2024-03-15",
+        "severidad": "High",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2024-03-18",
+        "severidad": "Medium",
+        "cantidad": 3
+    },
+    {
+        "fecha": "2024-03-18",
+        "severidad": "Low",
+        "cantidad": 2
+    },
+    {
+        "fecha": "2024-03-21",
+        "severidad": "Medium",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2024-03-20",
+        "severidad": "Medium",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2024-03-22",
+        "severidad": "High",
+        "cantidad": 5
+    },
+    {
+        "fecha": "2024-03-22",
+        "severidad": "Low",
+        "cantidad": 2
+    },
+    {
+        "fecha": "2024-03-13",
+        "severidad": "Low",
+        "cantidad": 5
+    },
+    {
+        "fecha": "2024-03-13",
+        "severidad": "Medium",
+        "cantidad": 5
+    },
+    {
+        "fecha": "2024-03-14",
+        "severidad": "Medium",
+        "cantidad": 3
+    },
+    {
+        "fecha": "2024-03-26",
+        "severidad": "Critical",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2024-03-27",
+        "severidad": "Medium",
+        "cantidad": 3
+    },
+    {
+        "fecha": "2024-03-27",
+        "severidad": "Low",
+        "cantidad": 2
+    },
+    {
+        "fecha": "2024-03-27",
+        "severidad": "High",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2024-03-30",
+        "severidad": "Low",
+        "cantidad": 2
+    },
+    {
+        "fecha": "2024-03-31",
+        "severidad": "Low",
+        "cantidad": 1
+    }
+]
