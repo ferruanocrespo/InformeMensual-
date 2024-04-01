@@ -1,0 +1,112 @@
+[
+    {
+        "fecha": "2024-03-04",
+        "severidad": "Medium",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2024-03-14",
+        "severidad": "Low",
+        "cantidad": 6
+    },
+    {
+        "fecha": "2024-03-15",
+        "severidad": "Low",
+        "cantidad": 2
+    },
+    {
+        "fecha": "2024-02-04",
+        "severidad": "High",
+        "cantidad": 2
+    },
+    {
+        "fecha": "2024-02-08",
+        "severidad": "High",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2024-02-09",
+        "severidad": "High",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2024-02-10",
+        "severidad": "High",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2024-02-11",
+        "severidad": "High",
+        "cantidad": 3
+    },
+    {
+        "fecha": "2024-02-12",
+        "severidad": "High",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2024-02-13",
+        "severidad": "High",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2024-02-18",
+        "severidad": "High",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2024-03-07",
+        "severidad": "High",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2024-03-08",
+        "severidad": "High",
+        "cantidad": 3
+    },
+    {
+        "fecha": "2024-03-09",
+        "severidad": "High",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2024-03-10",
+        "severidad": "High",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2024-03-12",
+        "severidad": "High",
+        "cantidad": 2
+    },
+    {
+        "fecha": "2024-03-13",
+        "severidad": "High",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2024-02-02",
+        "severidad": "High",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2024-03-11",
+        "severidad": "High",
+        "cantidad": 2
+    },
+    {
+        "fecha": "2024-03-25",
+        "severidad": "High",
+        "cantidad": 2
+    },
+    {
+        "fecha": "2024-03-27",
+        "severidad": "High",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2024-03-27",
+        "severidad": "Medium",
+        "cantidad": 2
+    }
+]
